@@ -99,3 +99,20 @@ body {
     color: #fff;
     text-decoration: none;
 }
+
+.connectLinks {
+    display: flex;
+    /* flex-direction: column; */
+    transform: scale(0.7);
+    
+}
+
+.resumePage {
+    /* flex: 1; */
+    padding: 0 1em;
+}
+
+.linkedInPage {
+    /* flex: 1; */
+    padding: 0 1em;
+}
