@@ -109,10 +109,16 @@ body {
 
 .resumePage {
     /* flex: 1; */
-    padding: 0 1em;
+    padding: 0 0.5em;
+    transform: scale(0.8);
 }
 
 .linkedInPage {
     /* flex: 1; */
-    padding: 0 1em;
+    padding: 0 0.5em;
+    transform: scale(0.8);
+}
+
+.emailClick {
+    padding: 0 0.5em;
 }
